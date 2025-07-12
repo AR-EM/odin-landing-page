@@ -1,4 +1,4 @@
 # odin-landing-page
-This is the landing page for the odin.
+This is the landing page for the odin project in HTML & CSS. 
 
-I have used CSS and HTML.
+Practicing my CSS skills.
